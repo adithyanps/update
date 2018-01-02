@@ -23,7 +23,11 @@ class poly:
         s=''
         for x in range(len(self.co)):
             if x==len(self.co)-1:
+<<<<<<< HEAD
                  s+=str(self.co[x])+'x^'+str(self.exp[x])
+=======
+                s+=str(self.co[x])+'x^'+str(self.exp[x])
+>>>>>>> 82bc309f448c8155e88c23ab8aa389a8d9ccce74
             else:
                 s+=str(self.co[x])+'x^'+str(self.exp[x])+'+'
         return s
