@@ -1,0 +1,20 @@
+
+
+1) Write a Python program which will read the name of a directory
+from the command line and print names of all files/folders etc in
+that directory. Here is how you run the program:
+
+python dirlist.py /etc
+
+will list everything under /etc.
+
+[Do NOT try to do stuff like using "ls" within the python program etc.
+Use functions available in the "os" module]
+
+
+2) Extend the program to display all FILE names in descending order
+of the size of each file [hint: use os.stat]. The file size should also
+be displayed along with the name.
+
+
+
