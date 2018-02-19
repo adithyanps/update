@@ -1,16 +1,16 @@
 import sys
 import os
-def exe(root,path):
-	path = path + "/" + root
-	if(os.path.isdir(path)):
-		print path,":"
-		print ""
-	listFile = os.listdir(path)
-	for f in listFile:
-		print(f)
-		if os.path.isdir(path + "/" + f):
-			exe(f,path)
-	path = path[:path.rfind("/")]
-root = sys.argv[1]
-print(root)
-exe(root,os.getcwd())
+def exe(path):
+        print path
+        files=os.listdir(path)
+        for file in files:
+         file=os.path.join(path,file)
+         if os.path.isfile(file):
+          print '  ',file
+         else:
+          exe(file)
+          print file + ':'
+rt = sys.argv[1]
+print rt
+exe(rt)
+
