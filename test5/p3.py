@@ -1,9 +1,14 @@
+import sys
 import os
-import fnmatch
+def exe(root):
+ print root
 
-for root, dir, files in os.walk("."):
-        print root,':'
-        print " "
-        for items in fnmatch.filter(files, "*"):
-                print "     " + items
-        print " "
+root = sys.argv[1]
+root(exe)
+path=os.listdir(root)
+for f in path:
+ if os.path.isfile(f):
+   print f
+ else:
+  print f
+  exe(root)
