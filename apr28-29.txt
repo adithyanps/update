@@ -1,6 +1,6 @@
 sir,
   I had completed task 11.
-  I hed gone through some wikipedia pages about different types of sorting(belongs in comparison sorting) and also learned about hash table.
+  I had gone through some wikipedia pages about different types of sorting(belongs in comparison sorting) and also learned about hash table.
   Now iam just moved to task 12.
   I will complete it more faster.
   
