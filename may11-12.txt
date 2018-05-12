@@ -1,0 +1,11 @@
+sir,
+   I had completed task18.
+   I had completed most of the exersises from it.
+   It covers the basics python tutorial.so it was easy to finish.
+   I had started task 19.
+   I will complete it more faster.
+ ------------------------- 
+ link for task18-solutions-
+ 
+  https://github.com/adithyanps/Anandology-Solutions/tree/master/chapter1-2
+  https://github.com/adithyanps/Anandology-Solutions/tree/master/chapter3-4
