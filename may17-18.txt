@@ -1,0 +1,7 @@
+sir,
+    I had started to read django girls tutorial and also watching django tutorial vedios.
+    I had installed all files related to this topic.
+    I had created a sample webpage using django girls tutorial.
+    I will try to do the next step faster.
+Thank you...
+    
