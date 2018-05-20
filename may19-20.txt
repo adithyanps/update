@@ -1,0 +1,7 @@
+sir,
+    I had completed upto 9 vedios from django tutorial vedios.
+    I had learned about views.py,settings.py,urls.py.
+    I had tried to create a simple webpage using home.html
+    Now iam tries to understand model.py.
+    I will spend my maximum time to finish it.
+  
