@@ -1,4 +1,6 @@
 sir,
   I had completed upto 15 vedios from django tutorial vedios.
   I will try to complete the remaining sections with more faster.
+ 
+ Thank you ...
   
