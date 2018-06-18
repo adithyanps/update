@@ -1,0 +1,7 @@
+Sir,
+    I had successfully hosted my newsletter app using pythonanywhere.
+   
+    App Link :  https://adithayanps3.pythonanywhere.com/
+    Github Link : https://github.com/adithyanps/trydjango18
+    
+Thank you Sir...
